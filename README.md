@@ -1,3 +1,3 @@
 # React-Hook-Form-TS
 
-using Css,React.TS,React-Hook-Form(library)
+using Css,React.TS,React-Hook-Form(library)-JSONplaceholder
